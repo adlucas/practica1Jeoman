@@ -1,0 +1,8 @@
+{
+  "name": "practica1jeoman",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "jquery-validate": "~1.13.1"
+  }
+}
